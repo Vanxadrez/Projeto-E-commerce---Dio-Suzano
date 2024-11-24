@@ -17,7 +17,7 @@ Flexibilidade nas transações de pagamento.
 Armazena informações de clientes, com suporte para identificação como Pessoa Física ou Jurídica:
 
 **Campos:**
-    idcliente (PK)
+    idcliente (PK)\r\n
     identificação (PF ou PJ)
     endereço
     nome
